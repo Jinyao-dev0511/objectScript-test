@@ -1,5 +1,5 @@
 /// examples for ObjectScript Tutorial
-Class ObjectScript.Examples
+Class ObjectScript.Examples3
 {
 
 /// demo of passing arguments by value and reference

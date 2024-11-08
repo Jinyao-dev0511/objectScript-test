@@ -1,5 +1,5 @@
 /// examples for ObjectScript Tutorial
-Class ObjectScript.Examples
+Class ObjectScript.Examples4
 {
 
 /// demo of <UNDEFINED> error
